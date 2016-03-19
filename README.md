@@ -24,7 +24,7 @@ Installation
 
 To install, simply:
 
-.. code-block:: bash
+..
 
     $ zip from root and upload to AWS Lambda
 
