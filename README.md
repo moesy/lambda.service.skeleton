@@ -1,9 +1,12 @@
 AWS Lambda Machine Learning Skeleton Microservice (AML)
 ========================================================
 
-AML is a skeleton application for machine learning on the AWS Lambda compute engine written for Python 2.7.
+A skeleton application for machine learning on the AWS Lambda compute engine written in Python 2.7.
 
-It compiles the packages you are most likely to need on a data science/machine learning project so that you can hit the ground running and focus on your models.
+AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running. With Lambda, you can run code for virtually any type of application or backend service - all with zero administration.
+
+Unfortunately out of the box Lambda and Python have severe compatibility issues. This skeleton application includes pre-compiled the binaries you are most likely to need on a machine learning project with the compatibility issues already resolved.
+
 
 What's Inside?
 =====================================
