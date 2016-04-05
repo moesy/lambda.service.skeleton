@@ -7,17 +7,17 @@ AWS Lambda lets you run code without provisioning or managing servers. You pay o
 Unfortunately out of the box Lambda and Python have severe compatibility issues. All packages have to be compiled on an Amazon EC2 AMI and bundled alongside the rest of your code. This repository alleviates some of that pain by including the packages you are likely to need on a machine learning project with the binaries already compiled for the AWS Lambda environment. 
 
 
-What's Inside?
+What's Inside?*
 =====================================
 
-**Numpy** NumPy is the fundamental package for scientific computing with Python.
+* **Numpy** NumPy is the fundamental package for scientific computing with Python.
 
-**Pandas** is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
+* **Pandas** is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
 
-**Scikit-learn** Simple and efficient tools for data mining and data analysis.
+* **Scikit-learn** Simple and efficient tools for data mining and data analysis.
 
 
-As well as the required libraries necessary to run these tools on an amazon linux ami.
+*Compiled for Amazon Linux AMI
 
 
 Installation
