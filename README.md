@@ -25,7 +25,7 @@ Installation
 
 To install, simply:
 
-..
+
 
     $ zip from root and upload to AWS Lambda
 
