@@ -4,7 +4,7 @@ A skeleton application for machine learning on the AWS Lambda compute engine wri
 
 AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running. With Lambda, you can run code for virtually any type of application or backend service - all with zero administration.
 
-Unfortunately out of the box Lambda and Python have severe compatibility issues. This skeleton application includes pre-compiled the binaries you are most likely to need on a machine learning project with the compatibility issues already resolved.
+Unfortunately out of the box Lambda and Python have severe compatibility issues. All packages have to be compiled on an Amazon EC2 AMI and bundled alongside the rest of your code. This repository alleviates some of that pain by including the packages you are likely to need on a machine learning project with the binaries already compiled for the AWS Lambda environment. 
 
 
 What's Inside?
