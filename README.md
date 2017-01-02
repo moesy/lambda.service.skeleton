@@ -36,7 +36,7 @@ Commands
 - make deploy_test: Preview changes to AWS Infrastructure
 - make deploy: deploy service to AWS (must run lambda_package first)
 - make run: run your application locally (no need to be in the venv)
-
+- make houston: run nose unit tests
 
 MANUAL DEPLOY
 ------------

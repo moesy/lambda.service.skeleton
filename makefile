@@ -5,6 +5,9 @@ setup:
 run:
 	. venv/bin/activate; python app/main.py
 
+houston:
+	. venv/bin/activate; nose2 -v
+
 lambda_package: setup
 	rm -rf package/ && mkdir -p package/ && mkdir -p storage/
 	cp -r venv/lib/python2.7/site-packages/* package/
