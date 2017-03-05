@@ -9,7 +9,7 @@ manager is not included with the service.
 
 =====================================
 
-- Declare required packages in requirements.txt
+- Declare required binaries in requirements.txt
 - Build your application in the app/ directory
 - edit every file that ends in variables.tf inside of infrastructure/ 
 - Prepare deploy package 
