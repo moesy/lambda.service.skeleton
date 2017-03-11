@@ -1,2 +1,5 @@
-pandas
+cov-core
 nose2
+codecov
+
+pandas
