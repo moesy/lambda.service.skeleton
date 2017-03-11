@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/moesy/lambda.service.skeleton.svg?branch=master)](https://travis-ci.org/moesy/lambda.service.skeleton)
+[![Build Status](https://travis-ci.org/moesy/lambda.service.skeleton.svg?branch=master)](https://travis-ci.org/moesy/lambda.service.skeleton) [![codecov](https://codecov.io/gh/moesy/lambda.service.skeleton/branch/master/graph/badge.svg)](https://codecov.io/gh/moesy/lambda.service.skeleton)
 
 ## Lambda Service Skeleton
 
