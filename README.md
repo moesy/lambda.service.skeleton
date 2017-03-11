@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/moesy/lambda.service.skeleton.svg?branch=master)](https://travis-ci.org/moesy/lambda.service.skeleton)
+
 ## Lambda Service Skeleton
 
 A skeleton application for deploying microservices on AWS Lambda.
