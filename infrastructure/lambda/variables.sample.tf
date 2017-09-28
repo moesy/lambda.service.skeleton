@@ -1,19 +1,19 @@
 variable "payload_path" {
-	default = "lambda/package.zip"
+  default = "lambda/package.zip"
 }
 
 variable "function_name" {
-	default = "Service Name"
+  default = "Service Name"
 }
 
 variable "function_description" {
-	default = "Service description"
+  default = "Service description"
 }
 
 variable "function_timeout" {
-	default = 10
+  default = 10
 }
 
 variable "handler" {
-	default = "app/main.handler"
+  default = "app/main.handler"
 }
