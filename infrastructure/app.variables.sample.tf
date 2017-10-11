@@ -1,8 +1,7 @@
 variable "app_name" {
-	default = "MyService"
+  default = "MyService"
 }
 
 variable "app_region" {
-	default = "us-west-1"
+  default = "us-west-1"
 }
-
